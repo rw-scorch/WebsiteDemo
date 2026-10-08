@@ -1,2 +1,0 @@
-# WebsiteDemo
-KiwiHacks Workshop
